@@ -1,0 +1,271 @@
+month,partner,partner_type,region,spend_usd,clicks,applies,hires
+2026-01,JobHub Global,Job Board,North America,509.65,1264,112,6
+2026-01,JobHub Global,Job Board,Europe,1747.27,4824,310,15
+2026-01,JobHub Global,Job Board,Asia-Pacific,2035.08,4530,316,19
+2026-01,CareerBridge,Job Board,North America,2896.91,4887,320,16
+2026-01,CareerBridge,Job Board,Europe,1827.96,3636,249,7
+2026-01,CareerBridge,Job Board,Asia-Pacific,1857.77,3105,200,7
+2026-01,WorkNest,Job Board,North America,2991.03,4442,216,5
+2026-01,WorkNest,Job Board,Europe,1529.96,2643,142,4
+2026-01,WorkNest,Job Board,Asia-Pacific,2279.34,3642,240,6
+2026-01,TalentStream,Aggregator,North America,455.98,1602,56,1
+2026-01,TalentStream,Aggregator,Europe,1464.22,4937,172,2
+2026-01,TalentStream,Aggregator,Asia-Pacific,570.34,1785,79,1
+2026-01,ApplyFast,Aggregator,North America,1372.91,4792,170,2
+2026-01,ApplyFast,Aggregator,Europe,1560.66,5127,185,3
+2026-01,ApplyFast,Aggregator,Asia-Pacific,1436.16,4985,190,1
+2026-01,JobScout,Aggregator,North America,283.92,838,35,0
+2026-01,JobScout,Aggregator,Europe,399.51,993,38,1
+2026-01,JobScout,Aggregator,Asia-Pacific,444.22,1526,65,1
+2026-01,TechHire Network,Niche Board,North America,3604.43,3739,460,33
+2026-01,TechHire Network,Niche Board,Europe,3157.15,3678,456,34
+2026-01,TechHire Network,Niche Board,Asia-Pacific,4756.9,5961,565,50
+2026-01,HealthJobs Pro,Niche Board,North America,4514.85,5237,577,36
+2026-01,HealthJobs Pro,Niche Board,Europe,3094.28,3426,326,25
+2026-01,HealthJobs Pro,Niche Board,Asia-Pacific,3870.26,4876,461,29
+2026-01,LogisticsCareers,Niche Board,North America,3532.43,4812,402,24
+2026-01,LogisticsCareers,Niche Board,Europe,3342.52,4556,437,30
+2026-01,LogisticsCareers,Niche Board,Asia-Pacific,1115.49,1664,147,5
+2026-01,SocialReach Ads,Social,North America,951.42,2781,66,0
+2026-01,SocialReach Ads,Social,Europe,983.66,2704,76,1
+2026-01,SocialReach Ads,Social,Asia-Pacific,2130.88,5524,184,1
+2026-01,PeopleFeed,Social,North America,1592.6,4631,123,1
+2026-01,PeopleFeed,Social,Europe,696.31,2215,66,0
+2026-01,PeopleFeed,Social,Asia-Pacific,1184.16,3643,103,1
+2026-01,CampusConnect,Campus Portal,North America,879.5,1719,163,10
+2026-01,CampusConnect,Campus Portal,Europe,579.88,1292,126,5
+2026-01,CampusConnect,Campus Portal,Asia-Pacific,2373.5,4179,446,21
+2026-01,RegionalJobs IN,Regional Board,North America,952.49,4324,273,7
+2026-01,RegionalJobs IN,Regional Board,Europe,321.22,1337,74,3
+2026-01,RegionalJobs IN,Regional Board,Asia-Pacific,497.25,2332,138,5
+2026-01,EuroWork,Regional Board,North America,646.71,918,71,3
+2026-01,EuroWork,Regional Board,Europe,1812.09,3094,126,4
+2026-01,EuroWork,Regional Board,Asia-Pacific,3389.47,5676,319,8
+2026-01,GulfCareers,Regional Board,North America,1891.45,2279,128,3
+2026-01,GulfCareers,Regional Board,Europe,613.16,912,37,0
+2026-01,GulfCareers,Regional Board,Asia-Pacific,1093.35,1418,98,2
+2026-02,JobHub Global,Job Board,North America,1117.93,2262,167,5
+2026-02,JobHub Global,Job Board,Europe,846.83,2029,214,8
+2026-02,JobHub Global,Job Board,Asia-Pacific,484.81,994,68,4
+2026-02,CareerBridge,Job Board,North America,2220.22,4101,264,8
+2026-02,CareerBridge,Job Board,Europe,1328.32,2312,140,3
+2026-02,CareerBridge,Job Board,Asia-Pacific,3267.44,5840,469,19
+2026-02,WorkNest,Job Board,North America,3533.57,5960,310,12
+2026-02,WorkNest,Job Board,Europe,525.86,914,53,1
+2026-02,WorkNest,Job Board,Asia-Pacific,3331.99,4814,247,5
+2026-02,TalentStream,Aggregator,North America,2002.1,5728,288,5
+2026-02,TalentStream,Aggregator,Europe,592.3,2053,100,1
+2026-02,TalentStream,Aggregator,Asia-Pacific,720.98,2258,84,1
+2026-02,ApplyFast,Aggregator,North America,664.6,2413,88,1
+2026-02,ApplyFast,Aggregator,Europe,671.16,2252,54,0
+2026-02,ApplyFast,Aggregator,Asia-Pacific,380.74,1485,42,0
+2026-02,JobScout,Aggregator,North America,2022.61,5294,190,4
+2026-02,JobScout,Aggregator,Europe,1658.94,4981,213,6
+2026-02,JobScout,Aggregator,Asia-Pacific,1366.21,3443,151,3
+2026-02,TechHire Network,Niche Board,North America,3735.85,4246,484,40
+2026-02,TechHire Network,Niche Board,Europe,4696.92,5172,588,76
+2026-02,TechHire Network,Niche Board,Asia-Pacific,1443.04,1350,129,9
+2026-02,HealthJobs Pro,Niche Board,North America,2436.16,3046,319,29
+2026-02,HealthJobs Pro,Niche Board,Europe,2545.33,3230,291,9
+2026-02,HealthJobs Pro,Niche Board,Asia-Pacific,1928.11,2538,233,12
+2026-02,LogisticsCareers,Niche Board,North America,2468.51,3560,235,8
+2026-02,LogisticsCareers,Niche Board,Europe,2171.78,3561,267,23
+2026-02,LogisticsCareers,Niche Board,Asia-Pacific,1886.2,2088,154,8
+2026-02,SocialReach Ads,Social,North America,1247.93,2660,67,0
+2026-02,SocialReach Ads,Social,Europe,672.51,1560,49,0
+2026-02,SocialReach Ads,Social,Asia-Pacific,1311.71,3802,109,1
+2026-02,PeopleFeed,Social,North America,621.34,1598,41,0
+2026-02,PeopleFeed,Social,Europe,1344.11,3483,102,1
+2026-02,PeopleFeed,Social,Asia-Pacific,1648.83,4339,108,1
+2026-02,CampusConnect,Campus Portal,North America,2155.33,3364,419,26
+2026-02,CampusConnect,Campus Portal,Europe,905.13,1743,146,4
+2026-02,CampusConnect,Campus Portal,Asia-Pacific,659.38,1285,130,3
+2026-02,RegionalJobs IN,Regional Board,North America,1402.26,5133,383,9
+2026-02,RegionalJobs IN,Regional Board,Europe,633.01,2467,174,5
+2026-02,RegionalJobs IN,Regional Board,Asia-Pacific,1229.64,4970,334,12
+2026-02,EuroWork,Regional Board,North America,2815.9,5828,337,10
+2026-02,EuroWork,Regional Board,Europe,3519.53,5259,297,4
+2026-02,EuroWork,Regional Board,Asia-Pacific,1263.86,1658,76,2
+2026-02,GulfCareers,Regional Board,North America,2152.14,2967,161,3
+2026-02,GulfCareers,Regional Board,Europe,1715.35,2024,121,4
+2026-02,GulfCareers,Regional Board,Asia-Pacific,1964.15,2343,137,5
+2026-03,JobHub Global,Job Board,North America,1629.4,3344,255,12
+2026-03,JobHub Global,Job Board,Europe,1755.26,4193,385,13
+2026-03,JobHub Global,Job Board,Asia-Pacific,1724.19,3906,367,21
+2026-03,CareerBridge,Job Board,North America,2868.4,4412,318,7
+2026-03,CareerBridge,Job Board,Europe,2214.55,4561,273,15
+2026-03,CareerBridge,Job Board,Asia-Pacific,885.79,1514,88,2
+2026-03,WorkNest,Job Board,North America,668.24,1268,57,1
+2026-03,WorkNest,Job Board,Europe,1416.95,2117,115,1
+2026-03,WorkNest,Job Board,Asia-Pacific,2617.92,4332,230,9
+2026-03,TalentStream,Aggregator,North America,837.41,3517,128,2
+2026-03,TalentStream,Aggregator,Europe,1682.14,4886,206,4
+2026-03,TalentStream,Aggregator,Asia-Pacific,398.28,1408,63,1
+2026-03,ApplyFast,Aggregator,North America,1329.08,4638,168,1
+2026-03,ApplyFast,Aggregator,Europe,1509.28,5471,187,3
+2026-03,ApplyFast,Aggregator,Asia-Pacific,312.45,1248,42,0
+2026-03,JobScout,Aggregator,North America,1835.96,5667,223,5
+2026-03,JobScout,Aggregator,Europe,1396.34,3985,215,6
+2026-03,JobScout,Aggregator,Asia-Pacific,1249.19,3292,160,6
+2026-03,TechHire Network,Niche Board,North America,3861.1,5365,732,51
+2026-03,TechHire Network,Niche Board,Europe,3740.72,4112,541,25
+2026-03,TechHire Network,Niche Board,Asia-Pacific,2299.4,3042,294,26
+2026-03,HealthJobs Pro,Niche Board,North America,2088.79,2335,243,11
+2026-03,HealthJobs Pro,Niche Board,Europe,2420.28,2832,263,20
+2026-03,HealthJobs Pro,Niche Board,Asia-Pacific,5443.44,5984,610,50
+2026-03,LogisticsCareers,Niche Board,North America,3198.3,4339,349,19
+2026-03,LogisticsCareers,Niche Board,Europe,3900.06,5464,552,29
+2026-03,LogisticsCareers,Niche Board,Asia-Pacific,1568.56,2302,203,14
+2026-03,SocialReach Ads,Social,North America,1349.01,4212,101,0
+2026-03,SocialReach Ads,Social,Europe,856.11,2296,76,0
+2026-03,SocialReach Ads,Social,Asia-Pacific,2127.67,5216,182,2
+2026-03,PeopleFeed,Social,North America,1095.07,3122,105,1
+2026-03,PeopleFeed,Social,Europe,350.96,1008,25,0
+2026-03,PeopleFeed,Social,Asia-Pacific,393.88,1075,33,0
+2026-03,CampusConnect,Campus Portal,North America,776.9,1803,181,6
+2026-03,CampusConnect,Campus Portal,Europe,405.61,822,56,3
+2026-03,CampusConnect,Campus Portal,Asia-Pacific,479.14,1020,89,2
+2026-03,RegionalJobs IN,Regional Board,North America,1010.98,3878,263,9
+2026-03,RegionalJobs IN,Regional Board,Europe,824.81,3184,267,8
+2026-03,RegionalJobs IN,Regional Board,Asia-Pacific,823.12,2975,197,8
+2026-03,EuroWork,Regional Board,North America,2568.07,3805,223,7
+2026-03,EuroWork,Regional Board,Europe,4357.56,5551,336,10
+2026-03,EuroWork,Regional Board,Asia-Pacific,2350.66,3265,171,5
+2026-03,GulfCareers,Regional Board,North America,2230.9,2884,138,2
+2026-03,GulfCareers,Regional Board,Europe,2437.56,4100,187,4
+2026-03,GulfCareers,Regional Board,Asia-Pacific,2106.62,2353,150,3
+2026-04,JobHub Global,Job Board,North America,1385.3,2975,223,10
+2026-04,JobHub Global,Job Board,Europe,1841.2,3853,292,18
+2026-04,JobHub Global,Job Board,Asia-Pacific,1670.98,4192,335,27
+2026-04,CareerBridge,Job Board,North America,3647.82,5801,382,17
+2026-04,CareerBridge,Job Board,Europe,1895.48,3466,219,7
+2026-04,CareerBridge,Job Board,Asia-Pacific,1045.58,2078,148,7
+2026-04,WorkNest,Job Board,North America,1514.55,2435,116,3
+2026-04,WorkNest,Job Board,Europe,2188.2,3335,120,3
+2026-04,WorkNest,Job Board,Asia-Pacific,816.46,1699,65,2
+2026-04,TalentStream,Aggregator,North America,1249.25,4487,139,0
+2026-04,TalentStream,Aggregator,Europe,453.34,1598,87,1
+2026-04,TalentStream,Aggregator,Asia-Pacific,944.05,3007,92,1
+2026-04,ApplyFast,Aggregator,North America,683.21,2416,83,1
+2026-04,ApplyFast,Aggregator,Europe,1413.81,4733,148,2
+2026-04,ApplyFast,Aggregator,Asia-Pacific,1149.4,3530,105,1
+2026-04,JobScout,Aggregator,North America,1705.53,4968,270,6
+2026-04,JobScout,Aggregator,Europe,2385.11,5949,272,7
+2026-04,JobScout,Aggregator,Asia-Pacific,1111.19,3294,127,2
+2026-04,TechHire Network,Niche Board,North America,3047.9,3240,272,25
+2026-04,TechHire Network,Niche Board,Europe,1815.98,1810,127,8
+2026-04,TechHire Network,Niche Board,Asia-Pacific,2505.78,3349,322,27
+2026-04,HealthJobs Pro,Niche Board,North America,3058.69,3692,360,26
+2026-04,HealthJobs Pro,Niche Board,Europe,3190.85,4175,461,37
+2026-04,HealthJobs Pro,Niche Board,Asia-Pacific,5063.49,5643,589,62
+2026-04,LogisticsCareers,Niche Board,North America,3602.05,5191,445,21
+2026-04,LogisticsCareers,Niche Board,Europe,872.75,1424,111,6
+2026-04,LogisticsCareers,Niche Board,Asia-Pacific,3776.87,5221,473,22
+2026-04,SocialReach Ads,Social,North America,362.56,844,24,0
+2026-04,SocialReach Ads,Social,Europe,1081.0,2562,79,0
+2026-04,SocialReach Ads,Social,Asia-Pacific,1537.25,3745,97,1
+2026-04,PeopleFeed,Social,North America,272.11,838,28,0
+2026-04,PeopleFeed,Social,Europe,2331.36,5920,105,0
+2026-04,PeopleFeed,Social,Asia-Pacific,1755.29,4759,111,1
+2026-04,CampusConnect,Campus Portal,North America,1516.3,3437,285,13
+2026-04,CampusConnect,Campus Portal,Europe,2675.2,4608,357,17
+2026-04,CampusConnect,Campus Portal,Asia-Pacific,2116.7,5071,389,15
+2026-04,RegionalJobs IN,Regional Board,North America,1093.69,4615,362,13
+2026-04,RegionalJobs IN,Regional Board,Europe,654.85,2491,159,7
+2026-04,RegionalJobs IN,Regional Board,Asia-Pacific,1378.92,5885,372,14
+2026-04,EuroWork,Regional Board,North America,2112.76,3111,139,4
+2026-04,EuroWork,Regional Board,Europe,2958.72,5077,315,6
+2026-04,EuroWork,Regional Board,Asia-Pacific,2519.36,4216,204,7
+2026-04,GulfCareers,Regional Board,North America,3704.66,4823,240,9
+2026-04,GulfCareers,Regional Board,Europe,1515.35,2014,115,2
+2026-04,GulfCareers,Regional Board,Asia-Pacific,4132.43,5262,266,6
+2026-05,JobHub Global,Job Board,North America,1602.62,3975,202,14
+2026-05,JobHub Global,Job Board,Europe,2423.78,4292,322,8
+2026-05,JobHub Global,Job Board,Asia-Pacific,1369.93,3134,243,8
+2026-05,CareerBridge,Job Board,North America,1666.49,2864,200,5
+2026-05,CareerBridge,Job Board,Europe,1994.66,3009,200,7
+2026-05,CareerBridge,Job Board,Asia-Pacific,2709.86,4998,354,8
+2026-05,WorkNest,Job Board,North America,641.72,1113,71,2
+2026-05,WorkNest,Job Board,Europe,1988.21,2840,118,4
+2026-05,WorkNest,Job Board,Asia-Pacific,2018.85,3685,189,7
+2026-05,TalentStream,Aggregator,North America,258.65,891,26,0
+2026-05,TalentStream,Aggregator,Europe,989.72,3416,134,1
+2026-05,TalentStream,Aggregator,Asia-Pacific,908.53,3612,154,2
+2026-05,ApplyFast,Aggregator,North America,1786.49,5916,215,2
+2026-05,ApplyFast,Aggregator,Europe,1132.98,4660,183,2
+2026-05,ApplyFast,Aggregator,Asia-Pacific,757.2,2604,96,1
+2026-05,JobScout,Aggregator,North America,1839.87,5346,270,7
+2026-05,JobScout,Aggregator,Europe,1903.93,5739,241,5
+2026-05,JobScout,Aggregator,Asia-Pacific,2255.49,5972,329,7
+2026-05,TechHire Network,Niche Board,North America,2281.68,2458,260,25
+2026-05,TechHire Network,Niche Board,Europe,4021.56,5767,555,35
+2026-05,TechHire Network,Niche Board,Asia-Pacific,866.95,1066,101,7
+2026-05,HealthJobs Pro,Niche Board,North America,1963.83,2079,200,10
+2026-05,HealthJobs Pro,Niche Board,Europe,3854.39,4104,350,18
+2026-05,HealthJobs Pro,Niche Board,Asia-Pacific,2512.04,2799,270,21
+2026-05,LogisticsCareers,Niche Board,North America,1188.85,1587,120,7
+2026-05,LogisticsCareers,Niche Board,Europe,553.68,808,59,2
+2026-05,LogisticsCareers,Niche Board,Asia-Pacific,1980.37,2932,223,13
+2026-05,SocialReach Ads,Social,North America,1354.06,3042,60,0
+2026-05,SocialReach Ads,Social,Europe,2424.73,5289,165,1
+2026-05,SocialReach Ads,Social,Asia-Pacific,1542.32,4352,108,1
+2026-05,PeopleFeed,Social,North America,719.53,1795,48,0
+2026-05,PeopleFeed,Social,Europe,610.67,1582,49,0
+2026-05,PeopleFeed,Social,Asia-Pacific,470.78,1598,51,0
+2026-05,CampusConnect,Campus Portal,North America,617.33,1375,94,4
+2026-05,CampusConnect,Campus Portal,Europe,1332.54,2259,231,9
+2026-05,CampusConnect,Campus Portal,Asia-Pacific,2384.63,5237,498,20
+2026-05,RegionalJobs IN,Regional Board,North America,1113.31,3696,327,14
+2026-05,RegionalJobs IN,Regional Board,Europe,717.93,3163,249,10
+2026-05,RegionalJobs IN,Regional Board,Asia-Pacific,390.08,1387,106,4
+2026-05,EuroWork,Regional Board,North America,2712.36,3923,247,4
+2026-05,EuroWork,Regional Board,Europe,1714.48,2793,135,5
+2026-05,EuroWork,Regional Board,Asia-Pacific,684.62,898,64,2
+2026-05,GulfCareers,Regional Board,North America,1178.17,1569,88,1
+2026-05,GulfCareers,Regional Board,Europe,3030.98,3887,215,4
+2026-05,GulfCareers,Regional Board,Asia-Pacific,1619.73,2177,152,5
+2026-06,JobHub Global,Job Board,North America,369.42,820,68,3
+2026-06,JobHub Global,Job Board,Europe,1187.02,2958,231,9
+2026-06,JobHub Global,Job Board,Asia-Pacific,1412.72,3588,309,16
+2026-06,CareerBridge,Job Board,North America,3193.24,5878,439,22
+2026-06,CareerBridge,Job Board,Europe,3121.86,5148,336,10
+2026-06,CareerBridge,Job Board,Asia-Pacific,1003.06,1763,121,6
+2026-06,WorkNest,Job Board,North America,2449.54,3678,180,3
+2026-06,WorkNest,Job Board,Europe,967.37,1578,76,1
+2026-06,WorkNest,Job Board,Asia-Pacific,1833.22,2980,137,3
+2026-06,TalentStream,Aggregator,North America,1386.43,4815,199,4
+2026-06,TalentStream,Aggregator,Europe,1442.32,5426,201,5
+2026-06,TalentStream,Aggregator,Asia-Pacific,1728.19,5583,184,1
+2026-06,ApplyFast,Aggregator,North America,1199.95,5266,185,2
+2026-06,ApplyFast,Aggregator,Europe,925.35,2947,61,1
+2026-06,ApplyFast,Aggregator,Asia-Pacific,1129.14,3488,101,1
+2026-06,JobScout,Aggregator,North America,1414.06,4437,189,6
+2026-06,JobScout,Aggregator,Europe,2195.84,5300,226,8
+2026-06,JobScout,Aggregator,Asia-Pacific,2442.36,5937,263,6
+2026-06,TechHire Network,Niche Board,North America,2575.72,2761,448,43
+2026-06,TechHire Network,Niche Board,Europe,2764.19,2800,291,20
+2026-06,TechHire Network,Niche Board,Asia-Pacific,2873.65,2927,323,27
+2026-06,HealthJobs Pro,Niche Board,North America,4215.57,4798,510,18
+2026-06,HealthJobs Pro,Niche Board,Europe,1342.76,1481,126,5
+2026-06,HealthJobs Pro,Niche Board,Asia-Pacific,2792.56,3258,291,24
+2026-06,LogisticsCareers,Niche Board,North America,2859.33,4718,398,20
+2026-06,LogisticsCareers,Niche Board,Europe,2276.56,3164,241,17
+2026-06,LogisticsCareers,Niche Board,Asia-Pacific,1513.78,2149,138,4
+2026-06,SocialReach Ads,Social,North America,788.58,2016,59,0
+2026-06,SocialReach Ads,Social,Europe,863.86,2112,72,0
+2026-06,SocialReach Ads,Social,Asia-Pacific,942.33,2645,82,1
+2026-06,PeopleFeed,Social,North America,2092.57,5755,100,0
+2026-06,PeopleFeed,Social,Europe,1673.11,4663,122,1
+2026-06,PeopleFeed,Social,Asia-Pacific,1475.19,4007,129,1
+2026-06,CampusConnect,Campus Portal,North America,1846.38,3524,257,12
+2026-06,CampusConnect,Campus Portal,Europe,2334.7,4622,429,26
+2026-06,CampusConnect,Campus Portal,Asia-Pacific,2374.07,3937,361,11
+2026-06,RegionalJobs IN,Regional Board,North America,1433.96,5696,334,9
+2026-06,RegionalJobs IN,Regional Board,Europe,1103.85,4183,265,11
+2026-06,RegionalJobs IN,Regional Board,Asia-Pacific,822.87,2950,250,9
+2026-06,EuroWork,Regional Board,North America,2397.56,4543,259,6
+2026-06,EuroWork,Regional Board,Europe,1375.35,2091,114,3
+2026-06,EuroWork,Regional Board,Asia-Pacific,1448.54,2267,144,4
+2026-06,GulfCareers,Regional Board,North America,2532.28,3351,184,5
+2026-06,GulfCareers,Regional Board,Europe,1104.17,1264,72,2
+2026-06,GulfCareers,Regional Board,Asia-Pacific,2194.14,3306,179,6

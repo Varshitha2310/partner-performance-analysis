@@ -1,0 +1,16 @@
+partner,partner_type,spend_usd,clicks,applies,hires,cpc,apply_rate,cost_per_apply,cost_per_hire,recommendation
+RegionalJobs IN,Regional Board,16404.24,64666,4527,157,0.254,0.07,3.624,104.486,Scale
+CampusConnect,Campus Portal,26412.22,51297,4657,207,0.515,0.091,5.672,127.595,Scale
+JobHub Global,Job Board,25113.39,57133,4419,216,0.44,0.077,5.683,116.266,Scale
+TalentStream,Aggregator,18084.23,61009,2392,33,0.296,0.039,7.56,548.007,Optimize
+TechHire Network,Niche Board,54048.92,62843,6948,561,0.86,0.111,7.779,96.344,Scale
+JobScout,Aggregator,27910.28,76961,3477,86,0.363,0.045,8.027,324.538,Optimize
+CareerBridge,Job Board,39645.41,69373,4720,173,0.571,0.068,8.399,229.164,Scale
+ApplyFast,Aggregator,19414.57,67971,2303,24,0.286,0.034,8.43,808.94,Optimize
+LogisticsCareers,Niche Board,41808.09,59540,4954,272,0.702,0.083,8.439,153.706,Optimize
+HealthJobs Pro,Niche Board,56335.68,65533,6480,442,0.86,0.099,8.694,127.456,Optimize
+EuroWork,Regional Board,40647.6,63973,3577,94,0.635,0.056,11.364,432.421,Optimize
+WorkNest,Job Board,33312.98,53475,2682,72,0.623,0.05,12.421,462.68,Review/Pause
+SocialReach Ads,Social,22527.59,57362,1656,9,0.393,0.029,13.604,2503.066,Review/Pause
+GulfCareers,Regional Board,37216.59,48933,2668,66,0.761,0.055,13.949,563.888,Review/Pause
+PeopleFeed,Social,20327.87,56031,1449,8,0.363,0.026,14.029,2540.984,Review/Pause
